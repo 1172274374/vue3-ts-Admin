@@ -4,13 +4,13 @@
 - 获取项目代码
 
 ```bash
-git clone https://github.com/buqiyuan/vue3-antd-admin
+git clone https://github.com/1172274374/vue3-ts-Admin.git
 ```
 
 - 安装依赖
 
 ```bash
-cd vue3-antd-admin
+cd vue3-ts-Admin
 
 yarn install
 
