@@ -1,0 +1,17 @@
+.page_footer {
+  text-align: center;
+}
+.page_footer a {
+  color: rgba(39, 38, 38, 0.482);
+}
+.page_footer .page_footer_link {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 8px;
+}
+.page_footer .page_footer_link a:not(:last-child) {
+  margin-right: 40px;
+}
+.page_footer .copyright {
+  color: rgba(0, 0, 0, 0.45);
+}
